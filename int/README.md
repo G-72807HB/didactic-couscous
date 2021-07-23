@@ -249,7 +249,7 @@ I use [SemVer](http://semver.org/) for versioning. For the versions available, s
 
 ### Authors
 
-* **Ivan R.** - [ivnry](https://github.com/ivnry/)
+* **Ivan R.** - [ivnry](https://github.com/G-72807HB)
 
 See also the list of [contributors](https://github.com/Dithmarschen/sturdy-tribble/contributors) who participated in this project
 
