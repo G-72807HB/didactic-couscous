@@ -247,13 +247,13 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduc
 
 ### Versioning
 
-I use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/Dithmarschen/sturdy-tribble/tags)
+I use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/G-72807HB/didactic-couscous/tags)
 
 ### Authors
 
-* **Ivan R.** - [ivnry](https://github.com/G-72807HB)
+* [G-72807HB](https://github.com/G-72807HB)
 
-See also the list of [contributors](https://github.com/Dithmarschen/sturdy-tribble/contributors) who participated in this project
+See also the list of [contributors](https://github.com/G-72807HB/didactic-couscous/contributors) who participated in this project
 
 ### License
 
